@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Marko, a Computer-Science student from Croatia.
+I am Marko, Full Stack developer from Croatia.
